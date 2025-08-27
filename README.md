@@ -1,7 +1,9 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20Eskinder's%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 # 👋 Hi, I'm Eskinder Kassahun  
 
 🚀 Cloud | Cybersecurity | DevOps Engineer  
 🎓 B.S. Computer Science | AWS re/Start Graduate | Springboard Full-Stack Bootcamp  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&width=500&lines=Cloud+Engineer+☁️;DevOps+Engineer+⚙️;Cybersecurity+Learner+🔐;AI+Security+Explorer+🤖)](https://git.io/typing-svg)
 
 ---
 
@@ -39,8 +41,18 @@
 | 🤖 [Treasure Hunt DQN](https://github.com/Eskinder185/Pirate-Intelligent-Agent) | AI pathfinding with Deep Q-Learning | [Repo](https://github.com/Eskinder185/Pirate-Intelligent-Agent) |
 
 ---
+![Visitors](https://komarev.com/ghpvc/?username=Eskinder185&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/Eskinder185?style=for-the-badge&logo=github&color=black)
+![Stars](https://img.shields.io/github/stars/Eskinder185?style=for-the-badge&logo=github&color=yellow)
+
+![Metrics](https://metrics.lecoq.io/Eskinder185?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
+
 
 ## 🌐 Let’s Connect
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/eskinder-kassahun)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://eskinder185.github.io/ePortfolio)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+![GitHub Snake](https://github.com/Eskinder185/Eskinder185/blob/output/github-contribution-grid-snake.svg)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer)
+
