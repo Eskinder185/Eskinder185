@@ -15,7 +15,6 @@
 
 ---
 
-## ⌨️ Typing Animation
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Cloud+Engineer+☁️;DevOps+Engineer+⚙️;AI+Security+Explorer+🤖;Full+Stack+Developer+💻)](https://git.io/typing-svg)
 
 ---
@@ -52,7 +51,8 @@
 ---
 
 ## 🐍 Fun Animation
-![Snake animation](https://github.com/Eskinder185/Eskinder185/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Eskinder185/Eskinder185/output/snake.svg)
+
 
 ---
 
