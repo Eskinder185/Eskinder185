@@ -1,3 +1,7 @@
+<!-- Neon banner -->
+<p align="center">
+  <img src="assets/neon-orbit.svg" alt="Neon Orbit Banner" />
+</p>
 
 <h1 align="center">Hi, I'm Eskinder Kassahun</h1>
 <p align="center">
@@ -12,6 +16,7 @@
   </a>
 </p>
 
+<!-- Social -->
 <p align="center">
   <a href="https://linkedin.com/in/eskinder-kassahun">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -43,39 +48,34 @@
 ---
 
 ## 🧭 Skill Radar
+<!-- Tip: tweak the numbers (0–100) to match your self-rating -->
 <p align="center">
   <img
-    src="https://quickchart.io/chart?w=520&h=380&c={
-      type:'radar',
-      data:{labels:['AWS','DevOps','Security','React','TypeScript','Python','Terraform'],
-      datasets:[{label:'Confidence',data:[85,80,70,75,78,82,72],borderColor:'#00e5ff',backgroundColor:'rgba(0,229,255,0.15)',pointBackgroundColor:'#7c4dff'}]},
-      options:{plugins:{legend:{labels:{color:'#e6f6ff'}}},scales:{r:{angleLines:{color:'#223'},grid:{color:'#223'},pointLabels:{color:'#9fb3c8'},ticks:{display:false,min:0,max:100}}},backgroundColor:'#0d1117'}
-    }"
+    src="https://quickchart.io/chart?w=520&h=380&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AWS%22%2C%22DevOps%22%2C%22Security%22%2C%22React%22%2C%22TypeScript%22%2C%22Python%22%2C%22Terraform%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Confidence%22%2C%22data%22%3A%5B85%2C80%2C70%2C75%2C78%2C82%2C72%5D%2C%22borderColor%22%3A%22%2300e5ff%22%2C%22backgroundColor%22%3A%22rgba(0%2C229%2C255%2C0.15)%22%2C%22pointBackgroundColor%22%3A%22%237c4dff%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23e6f6ff%22%7D%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22%23223%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23223%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%239fb3c8%22%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%7D%7D%2C%22backgroundColor%22%3A%22%230d1117%22%7D%7D"
     alt="Skill Radar"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eskinder185&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskinder185&layout=compact&theme=tokyonight" height="160" />
-</p>
+## 📊 Highlights (clean 2-column layout)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eskinder185&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Eskinder185&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eskinder185&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskinder185&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
+  <img src="assets/contrib-3d.svg" alt="3D Contribution Graph" height="165" />
+</div>
 
-<!-- Optional: activity graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eskinder185&bg_color=0d1117&color=00e5ff&line=7c4dff&point=14f195&area=true&hide_border=true)
+<!-- Optional: full-width activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eskinder185&bg_color=0d1117&color=00e5ff&line=7c4dff&point=14f195&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## 🗺 3D Contributions & Metrics
-<p align="center">
-  <img src="assets/contrib-3d.svg" alt="3D Contribution Graph" />
-</p>
-
+## 📈 Metrics (auto-updated)
 <p align="center">
   <img src="assets/metrics.svg" alt="GitHub Metrics" />
 </p>
@@ -97,9 +97,12 @@
 
 ---
 
-## 🐍 Fun
+## 🐍 Fun (neon snake)
 <p align="center">
+  <!-- Use the workflow-based contribution snake -->
   <img src="https://raw.githubusercontent.com/Eskinder185/Eskinder185/output/snake.svg" alt="Snake animation"/>
+  <!-- Or your custom always-on SVG: -->
+  <!-- <img src="assets/snake-custom.svg" alt="Neon snake animation" /> -->
 </p>
 
 ---
