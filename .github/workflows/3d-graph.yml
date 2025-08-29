@@ -1,0 +1,25 @@
+name: 3D Contribution Graph
+on:
+  schedule: [{cron: "0 0 * * 0"}]  # weekly
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          USERNAME: Eskinder185
+          SETTINGS: -
+      - name: Move output
+        run: |
+          mkdir -p assets
+          mv profile-3d-contrib/profile-night-green.svg assets/contrib-3d.svg
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contrib-3d.svg
+          git commit -m "chore: update 3D contribution graph" || echo "no changes"
+          git push
