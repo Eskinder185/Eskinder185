@@ -1,7 +1,3 @@
-<!-- Neon banner (local SVG in /assets) -->
-<p align="center">
-  <img src="assets/neon-orbit.svg" alt="Neon Orbit Banner" />
-</p>
 
 <h1 align="center">Hi, I'm Eskinder Kassahun</h1>
 <p align="center">
