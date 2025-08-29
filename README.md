@@ -1,58 +1,69 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20Eskinder's%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-# 👋 Hi, I'm Eskinder Kassahun  
+![header](https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=200&section=header&text=Hi%20👋%20I'm%20Eskinder%20Kassahun&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
-🚀 Cloud | Cybersecurity | DevOps Engineer  
-🎓 B.S. Computer Science | AWS re/Start Graduate | Springboard Full-Stack Bootcamp  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&width=500&lines=Cloud+Engineer+☁️;DevOps+Engineer+⚙️;Cybersecurity+Learner+🔐;AI+Security+Explorer+🤖)](https://git.io/typing-svg)
+<p align="center">
+  <b>Cloud • DevOps • Security • AI Explorer</b>
+</p>
 
 ---
 
-## ⚡ About Me
-- 🔭 I’m currently working on **Cloud & Security projects (AWS + Python + DevOps)**  
-- 🌱 Learning **AWS Solutions Architect & CompTIA Security+**  
-- 💡 Interested in **AI Security | DevSecOps | Cloud Engineering**  
-- 🎯 Goal: **Cloud role in Atlanta, GA**  
+## 👨‍💻 About Me
+- 🎓 B.S. Computer Science | AWS re/Start Graduate | Full-Stack Bootcamp  
+- ☁️ Focused on **Cloud Engineering & DevOps** with a security mindset  
+- 🔐 Learning **AWS Solutions Architect** + **CompTIA Security+**  
+- 🤖 Curious about **AI Security** and how it merges with DevOps  
+- 🎯 Goal: Cloud / DevOps Engineer role in **Atlanta, GA**  
+
+---
+
+## ⌨️ Typing Animation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Cloud+Engineer+☁️;DevOps+Engineer+⚙️;AI+Security+Explorer+🤖;Full+Stack+Developer+💻)](https://git.io/typing-svg)
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eskinder185&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskinder185&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Eskinder185&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eskinder185&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eskinder185&theme=tokyonight)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eskinder185&bg_color=0d1117&color=00e5ff&line=7c4dff&point=14f195&area=true&hide_border=true)
 
 ---
 
 ## 🛠 Tech Stack
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,python,typescript,react,nodejs,terraform,docker,kubernetes,linux,mongodb,git,java,cpp" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 | Project | Description | Repo |
 |---------|-------------|------|
-| 🧠 [JohnnyCloud](https://github.com/Eskinder185/JohnnyCloud) | Intelligent AWS file pipeline (S3 + Lambda + SNS) | [Repo](https://github.com/Eskinder185/JohnnyCloud) |
-| 🎮 [Trivia Clash](https://github.com/Eskinder185/TriviaClash) | Multiplayer trivia game | [Repo](https://github.com/Eskinder185/TriviaClash) |
-| 🛡 [Artemis Security Hardening](https://github.com/Eskinder185/Artemis-Security) | Secure web app with modern security practices | [Repo](https://github.com/Eskinder185/Artemis-Security) |
-| 🤖 [Treasure Hunt DQN](https://github.com/Eskinder185/Pirate-Intelligent-Agent) | AI pathfinding with Deep Q-Learning | [Repo](https://github.com/Eskinder185/Pirate-Intelligent-Agent) |
+| **JohnnyCloud** | Intelligent AWS file pipeline (S3 + Lambda + SNS) | [Repo](https://github.com/Eskinder185/johnnycloud) |
+| **AstraFocus** | Task Tracker + Pomodoro with neon cyber theme | [Repo](https://github.com/Eskinder185/tasktracker) |
+| **Artemis Security Hardening** | Hardened web app with TLS + secure coding | [Repo](https://github.com/Eskinder185/java-security-hardening-artemis) |
+| **Treasure Hunt DQN** | AI pathfinding with Deep Q-Learning | [Repo](https://github.com/Eskinder185/treasure-hunt-dqn) |
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=Eskinder185&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/Eskinder185?style=for-the-badge&logo=github&color=black)
-![Stars](https://img.shields.io/github/stars/Eskinder185?style=for-the-badge&logo=github&color=yellow)
 
-![Metrics](https://metrics.lecoq.io/Eskinder185?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
+## 🐍 Fun Animation
+![Snake animation](https://github.com/Eskinder185/Eskinder185/blob/output/github-contribution-grid-snake.svg)
 
+---
 
 ## 🌐 Let’s Connect
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/eskinder-kassahun)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://eskinder185.github.io/ePortfolio)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-![GitHub Snake](https://github.com/Eskinder185/Eskinder185/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://linkedin.com/in/eskinder-kassahun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://eskinder185.github.io/eportfolio"><img src="https://img.shields.io/badge/Portfolio-14f195?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:eskewabe185@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer)
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=120&section=footer)
 
