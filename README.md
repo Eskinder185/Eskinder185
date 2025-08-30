@@ -68,6 +68,12 @@
 
 ---
 
+## 📊 Snapshot
+![Stars](https://img.shields.io/github/stars/Eskinder185?style=social)
+![Followers](https://img.shields.io/github/followers/Eskinder185?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Eskinder185&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ## 📊 Highlights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eskinder185&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
