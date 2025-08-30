@@ -68,12 +68,6 @@
 
 ---
 
-## 📊 Snapshot
-![Stars](https://img.shields.io/github/stars/Eskinder185?style=social)
-![Followers](https://img.shields.io/github/followers/Eskinder185?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Eskinder185&label=Profile%20views&color=0e75b6&style=flat)
-
-
 ## 📊 Highlights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eskinder185&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
@@ -91,14 +85,18 @@
 
 ---
 
-## 🗺 3D Contributions & Metrics
-<p align="center">
-  <img src="assets/contrib-3d.svg" alt="3D Contribution Graph" />
-</p>
+## 📊 Snapshot
+![Stars](https://img.shields.io/github/stars/Eskinder185?style=social)
+![Followers](https://img.shields.io/github/followers/Eskinder185?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Eskinder185&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center">
-  <img src="assets/metrics.svg" alt="GitHub Metrics" />
-</p>
+---
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)]
+(https://stackblitz.com/github/Eskinder185/neon-meme-machine)
+[![Remix on Glitch](https://img.shields.io/badge/Remix_on-Glitch-ff77ff?logo=glitch)]
+(https://glitch.com/edit/#!/import/github/Eskinder185/neon-meme-machine)
+
 
 ---
 
