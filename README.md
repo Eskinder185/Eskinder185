@@ -80,12 +80,25 @@
 ---
 
 ## ⭐ Featured Projects
-| Project | Description | Repo |
-|---|---|---|
-| **AstraFocus** | Task Tracker + Pomodoro with neon live background | [Repo](https://github.com/Eskinder185/tasktracker) |
-| **JohnnyCloud** | Intelligent AWS file pipeline (S3 + Lambda + SNS) | [Repo](https://github.com/Eskinder185/johnnycloud) |
-| **Artemis Security Hardening** | Secure web app with modern security practices | [Repo](https://github.com/Eskinder185/java-security-hardening-artemis) |
-| **Treasure Hunt DQN** | AI pathfinding with Deep Q-Learning | [Repo](https://github.com/Eskinder185/treasure-hunt-dqn) |
+
+<p align="center">
+  <a href="https://eskinder185.github.io/tasktracker/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Eskinder185/professionaldev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=professionaldev&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Eskinder185/neon-meme-machine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=neon-meme-machine&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Eskinder185/trivia-clash">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=trivia-clash&theme=tokyonight" />
+  </a>
+</p>
+
 
 ---
 
