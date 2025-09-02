@@ -96,8 +96,9 @@
 
 ## 🐍 Fun (auto-updated snake)
 <p align="center">
-  <img src="https://github.com/Eskinder185/Eskinder185/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Eskinder185/Eskinder185/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
 
 ---
 
