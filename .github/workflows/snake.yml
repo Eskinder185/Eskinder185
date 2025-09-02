@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule:               # Runs once a day
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:      # Manual run from GitHub Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write    # 👈 THIS is required so actions[bot] can push
 
 jobs:
   build:
@@ -22,4 +25,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
