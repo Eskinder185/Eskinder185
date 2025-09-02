@@ -87,10 +87,17 @@
 | **Artemis Security Hardening** | Secure web app with modern security practices | [Repo](https://github.com/Eskinder185/java-security-hardening-artemis) |
 | **Treasure Hunt DQN** | AI pathfinding with Deep Q-Learning | [Repo](https://github.com/Eskinder185/treasure-hunt-dqn) |
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=johnnycloud&theme=tokyonight"/>
+  <a href="https://github.com/Eskinder185/tasktracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Eskinder185/johnnycloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=johnnycloud&theme=tokyonight" />
+  </a>
 </p>
+
 
 ---
 
