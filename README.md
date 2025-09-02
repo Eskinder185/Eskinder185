@@ -1,4 +1,4 @@
-<!-- Animated banner (external, no local SVG) -->
+<!-- Animated banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00e5ff,100:7c4dff&text=Eskinder%20Kassahun&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
@@ -11,9 +11,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;AI+Security+Explorer;Full+Stack+Developer" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;AI+Security+Explorer;Full+Stack+Developer" alt="Typing Animation" />
 </p>
 
 <!-- Social -->
@@ -33,38 +31,28 @@
 ---
 
 ## 👋 About Me
-- Cloud & security-minded software engineer (B.S. CS, AWS re/Start grad, Full-Stack Bootcamp)
+- Cloud & security-minded software engineer (**B.S. CS**, AWS re/Start grad, Full-Stack Bootcamp)
 - Building with **AWS • Python • React/TypeScript • Node • Terraform**
 - Studying **AWS Solutions Architect** + **CompTIA Security+**
 - Goal: Cloud/DevOps role where I can automate, secure, and ship faster
 
 ---
 
-## 🛠 Tech Stack (organized)
+## 🛠 Tech Stack
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux" /></p>
 
 ### 🧪 CI/CD & Observability
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,bash,prometheus,grafana" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=githubactions,bash,prometheus,grafana" /></p>
 
 ### 💻 Languages & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,java,cpp" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,nodejs,express,java,cpp" /></p>
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,html,css" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,typescript,html,css" /></p>
 
 ### 🗄️ Data & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,postman" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,git,postman" /></p>
 
 ---
 
@@ -91,14 +79,6 @@
 
 ---
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)]
-(https://stackblitz.com/github/Eskinder185/neon-meme-machine)
-[![Remix on Glitch](https://img.shields.io/badge/Remix_on-Glitch-ff77ff?logo=glitch)]
-(https://glitch.com/edit/#!/import/github/Eskinder185/neon-meme-machine)
-
-
----
-
 ## ⭐ Featured Projects
 | Project | Description | Repo |
 |---|---|---|
@@ -116,7 +96,7 @@
 
 ## 🐍 Fun (auto-updated snake)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eskinder185/Eskinder185/output/snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/Eskinder185/Eskinder185/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -124,4 +104,5 @@
 ## 💬 A Note
 I’m building in public — learning, shipping, and iterating.  
 If you have ideas or want to collaborate on cloud + security + productivity tools, reach out!
+
 
