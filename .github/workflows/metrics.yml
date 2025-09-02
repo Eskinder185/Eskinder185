@@ -1,8 +1,14 @@
 name: Metrics
+
 on:
   schedule:
-    - cron: "0 * * * *" # every hour
+    - cron: "0 * * * *"   # every hour
   workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 give the bot permission to commit
+  issues: read
+  pull-requests: read
 
 jobs:
   github-metrics:
