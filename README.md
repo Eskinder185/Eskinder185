@@ -102,6 +102,13 @@
 
 ---
 
+
+<p align="center">
+  <a href="https://eskinder185.github.io/factforge/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://eskinder185.github.io/tasktracker/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
