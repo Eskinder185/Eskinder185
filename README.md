@@ -82,39 +82,22 @@
 ## ⭐ Featured Projects
 
 <p align="center">
-  <a href="https://eskinder185.github.io/tasktracker/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
+  <a href="https://eskinder185.github.io/tasktracker/" title="TaskTracker — live demo">
+    <img alt="TaskTracker" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Eskinder185/professionaldev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=professionaldev&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Eskinder185/neon-meme-machine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=neon-meme-machine&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Eskinder185/trivia-clash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=trivia-clash&theme=tokyonight" />
-  </a>
-</p>
-
-
----
-
-
-<p align="center">
-  <a href="https://eskinder185.github.io/factforge/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
+  <a href="https://github.com/Eskinder185/professionaldev" title="professionaldev — repo">
+    <img alt="professionaldev" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=professionaldev&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://eskinder185.github.io/tasktracker/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
+  <a href="https://github.com/Eskinder185/neon-meme-machine" title="neon-meme-machine — repo">
+    <img alt="neon-meme-machine" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=neon-meme-machine&theme=tokyonight" />
+  </a>
+  <a href="https://eskinder185.github.io/factforge/" title="FactForge — live demo">
+    <img alt="factforge" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=factforge&theme=tokyonight" />
   </a>
 </p>
-
 
 
 ---
