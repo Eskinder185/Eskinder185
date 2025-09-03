@@ -107,7 +107,7 @@
   <img src="https://raw.githubusercontent.com/Eskinder185/Eskinder185/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
-
+<a href="https://stardev.io/developers/Eskinder185"><img alt="Check out Eskinder185's profile on stardev.io" src="https://stardev.io/developers/Eskinder185/badge/languages/global.svg" /></a>
 ---
 
 ## 💬 A Note
