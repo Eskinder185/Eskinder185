@@ -47,22 +47,6 @@
 - Studying **AWS Solutions Architect** + **CompTIA Security+**
 - Goal: Cloud/DevOps role where I can automate, secure, and ship faster
 
----
-
-## 🚀 Latest Project — Hive (please ⭐ if you like it!)
-<p align="center">
-  <b><a href="https://eskinder185.github.io/Hive/">Hive — Private Neighborhood Chat</a></b><br/>
-  Private, invite-only chat built with React + Firebase and AI-powered safety.  
-  <br/>
-  <a href="https://github.com/Eskinder185/Hive">⭐ Star the repo</a>
-</p>
-
-**Highlights**
-- Firebase Auth (email link) & Firestore
-- Roles: 👑 Queen (admin), 🛡 Soldier (moderator), 🐝 Worker (neighbor)
-- Security-first UI/UX, with planned E2EE + AI moderation (Gemini)
-
----
 
 ## 🛠 Tech Stack
 ### ☁️ Cloud & DevOps
