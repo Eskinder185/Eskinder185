@@ -85,7 +85,7 @@
   <a href="https://eskinder185.github.io/tasktracker/" title="TaskTracker — live demo">
     <img alt="TaskTracker" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=tasktracker&theme=tokyonight" />
   </a>
-  <a href=" https://eskinder185.github.io/professionaldev/" title="professionaldev — repo">
+  <a href="https://eskinder185.github.io/professionaldev/" title="professionaldev — repo">
     <img alt="professionaldev" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=professionaldev&theme=tokyonight" />
   </a>
 </p>
