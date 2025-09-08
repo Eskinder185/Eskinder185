@@ -47,6 +47,7 @@
 - Studying **AWS Solutions Architect** + **CompTIA Security+**
 - Goal: Cloud/DevOps role where I can automate, secure, and ship faster
 
+---
 
 ## 🛠 Tech Stack
 ### ☁️ Cloud & DevOps
