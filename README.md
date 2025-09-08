@@ -30,11 +30,37 @@
 
 ---
 
+<p align="center">
+  💡 If you find my projects useful, please consider giving them a ⭐ on GitHub!  
+  It helps with discovery and keeps me building.
+  <br/>
+  <a href="https://github.com/Eskinder185?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Eskinder185?style=social" alt="Stars" />
+  </a>
+</p>
+
+---
+
 ## 👋 About Me
 - Cloud & security-minded software engineer (**B.S. CS**, AWS re/Start grad, Full-Stack Bootcamp)
 - Building with **AWS • Python • React/TypeScript • Node • Terraform**
 - Studying **AWS Solutions Architect** + **CompTIA Security+**
 - Goal: Cloud/DevOps role where I can automate, secure, and ship faster
+
+---
+
+## 🚀 Latest Project — Hive (please ⭐ if you like it!)
+<p align="center">
+  <b><a href="https://eskinder185.github.io/Hive/">Hive — Private Neighborhood Chat</a></b><br/>
+  Private, invite-only chat built with React + Firebase and AI-powered safety.  
+  <br/>
+  <a href="https://github.com/Eskinder185/Hive">⭐ Star the repo</a>
+</p>
+
+**Highlights**
+- Firebase Auth (email link) & Firestore
+- Roles: 👑 Queen (admin), 🛡 Soldier (moderator), 🐝 Worker (neighbor)
+- Security-first UI/UX, with planned E2EE + AI moderation (Gemini)
 
 ---
 
@@ -99,7 +125,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  If you like these projects, a quick ⭐ on the repos means a lot — thank you!
+</p>
 
 ---
 
@@ -113,5 +141,6 @@
 ## 💬 A Note
 I’m building in public — learning, shipping, and iterating.  
 If you have ideas or want to collaborate on cloud + security + productivity tools, reach out!
+
 
 
