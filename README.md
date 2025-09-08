@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eskinder185/neon-meme-machine" title="neon-meme-machine — repo">
+  <a href="[https://github.com/Eskinder185/neon-meme-machine](https://eskinder185.github.io/neon-meme-machine/)" title="neon-meme-machine — repo">
     <img alt="neon-meme-machine" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=neon-meme-machine&theme=tokyonight" />
   </a>
   <a href="https://eskinder185.github.io/factforge/" title="FactForge — live demo">
