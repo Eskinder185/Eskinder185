@@ -82,13 +82,6 @@
 
 ---
 
-## 📊 Snapshot
-![Stars](https://img.shields.io/github/stars/Eskinder185?style=social)
-![Followers](https://img.shields.io/github/followers/Eskinder185?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Eskinder185&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
 ## ⭐ Featured Projects
 
 <p align="center">
