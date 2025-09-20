@@ -121,5 +121,69 @@
 I’m building in public — learning, shipping, and iterating.  
 If you have ideas or want to collaborate on cloud + security + productivity tools, reach out!
 
+<!-- ====== Repo badges row (quick signals) ====== -->
+<p align="center">
+  <a href="https://github.com/Eskinder185/AstraFocusNexus/stargazers">
+    <img src="https://img.shields.io/github/stars/Eskinder185/AstraFocusNexus?style=for-the-badge" alt="Stars" />
+  </a>
+  <a href="https://github.com/Eskinder185/AstraFocusNexus/network/members">
+    <img src="https://img.shields.io/github/forks/Eskinder185/AstraFocusNexus?style=for-the-badge" alt="Forks" />
+  </a>
+  <a href="https://github.com/Eskinder185/AstraFocusNexus/issues">
+    <img src="https://img.shields.io/github/issues/Eskinder185/AstraFocusNexus?style=for-the-badge" alt="Issues" />
+  </a>
+  <a href="https://github.com/Eskinder185/AstraFocusNexus/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Eskinder185/AstraFocusNexus?style=for-the-badge" alt="PRs" />
+  </a>
+  <img src="https://img.shields.io/github/last-commit/Eskinder185/AstraFocusNexus?style=for-the-badge" alt="Last commit" />
+</p>
+
+<!-- ====== “Ranker”-style widgets (user-level) ====== -->
+<p align="center">
+  <!-- Overall stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Eskinder185&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskinder185&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <!-- Streak (activity “rank”) -->
+  <img
+    src="https://streak-stats.demolab.com?user=Eskinder185&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+    height="190"
+  />
+</p>
+
+<p align="center">
+  <!-- Trophies (gamified ranking across categories) -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Eskinder185&theme=onedark&row=1&column=6&no-bg=true&no-frame=true"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<!-- ====== Repo analytics visual (pretty contribution heatmap) ====== -->
+<p align="center">
+  <a href="https://github.com/Eskinder185/AstraFocusNexus">
+    <img src="https://repobeats.axiom.co/api/embed/7c3dff8a6d3b4b0f9f8a0f0f3b7f0b7f0b7f0b7f.svg" alt="Repobeats analytics" />
+  </a>
+</p>
+
+<!-- ====== Star history chart (repo “ranking” over time) ====== -->
+<p align="center">
+  <a href="https://star-history.com/#Eskinder185/AstraFocusNexus&Date">
+    <img src="https://api.star-history.com/svg?repos=Eskinder185/AstraFocusNexus&type=Date" alt="Star History Chart" />
+  </a>
+</p>
+
 
 
