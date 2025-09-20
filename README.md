@@ -86,26 +86,27 @@
 ## ⭐ Featured Projects
 
 <p align="center">
-  <a href="https://eskinder185.github.io/astrafocusnexus/" title="AstraFocusNexus — live demo">
-    <img alt="AstraFocusNexus" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=astrafocusnexus&theme=tokyonight" />
+  <a href="https://eskinder185.github.io/ProgreesTracker/" title="ProgreesTracker — live demo">
+    <img alt="ProgreesTracker" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=ProgreesTracker&theme=tokyonight" />
   </a>
-  <a href="https://eskinder185.github.io/professionaldev/" title="professionaldev — repo">
-    <img alt="professionaldev" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=professionaldev&theme=tokyonight" />
+  <a href="https://eskinder185.github.io/CodeRush/" title="CodeRush — live demo">
+    <img alt="CodeRush" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=CodeRush&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://eskinder185.github.io/Hive/" title="Hive — live demo">
-    <img alt="Hive" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=Hive&theme=tokyonight" />
+  <a href="https://eskinder185.github.io/AstraFocusNexus/" title="AstraFocusNexus — live demo">
+    <img alt="AstraFocusNexus" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=AstraFocusNexus&theme=tokyonight" />
   </a>
-  <a href="https://eskinder185.github.io/quizforge/" title="QuizForge — live demo">
-    <img alt="QuizForge" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=quizforge&theme=tokyonight" />
+  <a href="https://eskinder185.github.io/professionaldev/" title="professionaldev — live demo">
+    <img alt="professionaldev" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=professionaldev&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   If you like these projects, a quick ⭐ on the repos means a lot — thank you!
 </p>
+
 
 ---
 
