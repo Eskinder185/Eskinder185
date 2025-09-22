@@ -121,7 +121,7 @@
 I’m building in public — learning, shipping, and iterating.  
 If you have ideas or want to collaborate on cloud + security + productivity tools, reach out!
 
-[![CodeFactor](https://www.codefactor.io/repository/github/Eskinder185/REPO_NAME/badge)](https://www.codefactor.io/repository/github/Eskinder185/REPO_NAME)
+
 
 
 
