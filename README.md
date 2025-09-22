@@ -86,6 +86,11 @@
 ## ⭐ Featured Projects
 
 <p align="center">
+  <a href="https://eskinder185.github.io/QuizForge/" title="QuizForge — live demo">
+    <img alt="QuizForge" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=QuizForge&theme=tokyonight" />
+  </a>
+
+<p align="center">
   <a href="https://eskinder185.github.io/ProgreesTracker/" title="ProgreesTracker — live demo">
     <img alt="ProgreesTracker" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=ProgreesTracker&theme=tokyonight" />
   </a>
