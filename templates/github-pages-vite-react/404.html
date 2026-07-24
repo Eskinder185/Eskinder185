@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Loading...</title>
+    <!-- Copy all <link> and <meta> tags from your index.html here -->
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Copy all <script> tags from your index.html here -->
+    
+    <!-- SPA Fallback Script -->
+    <script>
+      // Redirect to index.html for client-side routing
+      const path = window.location.pathname.slice(1);
+      if (path && path !== 'index.html') {
+        window.history.replaceState(null, null, '/YOUR_REPO_NAME/#/' + path);
+        window.location.replace('/YOUR_REPO_NAME/');
+      }
+    </script>
+  </body>
+</html>
