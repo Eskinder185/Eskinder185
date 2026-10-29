@@ -1,29 +1,82 @@
-name: Generate Snake
+name: Update profile visuals
 
 on:
+  pull_request:
+    paths:
+      - '.github/workflows/snake.yml'
+      - 'scripts/**'
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '17 6 * * 1' # Monday 06:17 UTC
   workflow_dispatch:
+    inputs:
+      publish:
+        description: Publish generated visuals to the output branch
+        type: boolean
+        default: false
 
 permissions:
-  contents: write    # 👈 THIS is required so actions[bot] can push
+  contents: read
+
+concurrency:
+  group: profile-visuals-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Check out generator
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - name: Generate public repository snapshot
+        run: python3 scripts/generate-activity.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: Eskinder185
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Validate generated SVGs
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree
+          for name in ('activity.svg', 'github-contribution-grid-snake.svg', 'github-contribution-grid-snake-dark.svg'):
+              path = Path('dist') / name
+              assert path.stat().st_size > 100, f'Missing or empty {path}'
+              ElementTree.parse(path)
+          PY
+      - name: Retain generated visuals for review
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: profile-visuals
+          path: dist/
+          retention-days: 7
+          if-no-files-found: error
 
-
+  publish:
+    needs: generate
+    if: github.ref_name == github.event.repository.default_branch && (github.event_name == 'schedule' || inputs.publish)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write # Only this job can update the output branch.
+    steps:
+      - name: Download generated visuals
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: profile-visuals
+          path: dist
+      - name: Publish visuals
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
+        with:
+          github_token: ${{ github.token }}
+          publish_branch: output
+          publish_dir: dist
+          keep_files: true
+          commit_message: 'chore: refresh profile visuals [skip ci]'
