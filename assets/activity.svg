@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+<title id="title">Public GitHub repository snapshot</title>
+<desc id="desc">38 public non-fork repositories, 77 repository stars, 10 distinct primary repository languages. Snapshot 2026-10-29 UTC.</desc>
+<style>text{font-family:system-ui,sans-serif}.value{fill:#67e8f9;font-size:36px;font-weight:700}.label{fill:#cbd5e1;font-size:15px}</style>
+<rect width="900" height="180" rx="18" fill="#0e1628"/>
+<text x="32" y="30" fill="#a5b4fc" font-size="12">PUBLIC WORK / 2026-10-29 UTC</text><g transform="translate(32,65)"><text class="value" y="25">38</text><text class="label" y="57">Public repositories</text></g><g transform="translate(316,65)"><text class="value" y="25">77</text><text class="label" y="57">Repository stars</text></g><g transform="translate(600,65)"><text class="value" y="25">10</text><text class="label" y="57">Primary languages</text></g>
+<text x="32" y="158" fill="#94a3b8" font-size="12">Non-fork repositories · primary language per repository · weekly snapshot</text></svg>
