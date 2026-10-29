@@ -1,138 +1,105 @@
-<!-- Animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00e5ff,100:7c4dff&text=Eskinder%20Kassahun&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
-</p>
-
-<h1 align="center">Hi, I'm Eskinder Kassahun</h1>
-<p align="center">
-  <b>Cloud • DevOps • Security • AI Explorer</b><br/>
-  <i>Atlanta, GA</i>
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;AI+Security+Explorer;Full+Stack+Developer" alt="Typing Animation" />
-</p>
-
-<!-- Social -->
-<p align="center">
-  <a href="https://linkedin.com/in/eskinder-kassahun">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:eskewabe185@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://eskinder185.github.io/eportfolio">
-    <img src="https://img.shields.io/badge/Portfolio-14f195?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Eskinder185&style=for-the-badge&color=00e5ff" alt="profile views"/>
-</p>
-
----
-
-<p align="center">
-  💡 If you find my projects useful, please consider giving them a ⭐ on GitHub!  
-  It helps with discovery and keeps me building.
-  <br/>
-  <a href="https://github.com/Eskinder185?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Eskinder185?style=social" alt="Stars" />
-  </a>
-</p>
-
----
-
-## 👋 About Me
-- Cloud & security-minded software engineer (**B.S. CS**, AWS re/Start grad, Full-Stack Bootcamp)
-- Building with **AWS • Python • React/TypeScript • Node • Terraform**
-- Studying **AWS Solutions Architect** + **CompTIA Security+**
-- Goal: Cloud/DevOps role where I can automate, secure, and ship faster
-
----
-
-## 🛠 Tech Stack
-### ☁️ Cloud & DevOps
-<p><img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux" /></p>
-
-### 🧪 CI/CD & Observability
-<p><img src="https://skillicons.dev/icons?i=githubactions,bash,prometheus,grafana" /></p>
-
-### 💻 Languages & Backend
-<p><img src="https://skillicons.dev/icons?i=python,nodejs,express,java,cpp" /></p>
-
-### 🌐 Frontend
-<p><img src="https://skillicons.dev/icons?i=react,typescript,html,css" /></p>
-
-### 🗄️ Data & Tools
-<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,git,postman" /></p>
-
----
-
-## 📊 Highlights
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Eskinder185&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskinder185&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
-</div>
-
-<!-- Activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eskinder185&bg_color=0d1117&color=00e5ff&line=7c4dff&point=14f195&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://eskinder185.github.io/eportfolio/" title="eprotfolio — live demo">
-    <img alt="QuizForge" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=eportfolio&theme=tokyonight" />
-  </a>
-
-
-<p align="center">
-  <a href="https://eskinder185.github.io/QuizForge/" title="QuizForge — live demo">
-    <img alt="QuizForge" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=QuizForge&theme=tokyonight" />
-  </a>
-
-<p align="center">
-  <a href="https://eskinder185.github.io/ProgreesTracker/" title="ProgreesTracker — live demo">
-    <img alt="ProgreesTracker" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=ProgreesTracker&theme=tokyonight" />
-  </a>
-  <a href="https://eskinder185.github.io/CodeRush/" title="CodeRush — live demo">
-    <img alt="CodeRush" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=CodeRush&theme=tokyonight" />
-  </a>
+  <img src="assets/banner.svg" alt="Eskinder Kassahun — Software engineering, cloud infrastructure and cybersecurity" width="1200" />
 </p>
 
 <p align="center">
-  <a href="https://eskinder185.github.io/AstraFocusNexus/" title="AstraFocusNexus — live demo">
-    <img alt="AstraFocusNexus" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=AstraFocusNexus&theme=tokyonight" />
-  </a>
-  <a href="https://eskinder185.github.io/professionaldev/" title="professionaldev — live demo">
-    <img alt="professionaldev" src="https://github-readme-stats.vercel.app/api/pin/?username=Eskinder185&repo=professionaldev&theme=tokyonight" />
-  </a>
+  <a href="https://eskinder.dev">Explore my portfolio ↗</a> ·
+  <a href="https://www.linkedin.com/in/eskinder-kassahun/">LinkedIn</a> ·
+  <a href="mailto:eskinderkassahun25@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  If you like these projects, a quick ⭐ on the repos means a lot — thank you!
-</p>
+## Building across the stack
 
+I’m **Eskinder Kassahun**, a cloud and security-minded software engineer in
+Atlanta, Georgia. I build web applications, explore AWS infrastructure and learn
+how to make systems easier to operate and secure.
 
----
+My foundation includes a B.S. in Computer Science, AWS re/Start training and
+full-stack development training. My repositories bring that learning into
+practice through React applications, infrastructure labs and security-focused
+experiments.
 
-## 🐍 Fun (auto-updated snake)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eskinder185/Eskinder185/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+**Currently exploring:** software delivery, cloud automation, cybersecurity and
+AI-assisted tools.
 
----
+## Engineering toolkit
 
-## 💬 A Note
-I’m building in public — learning, shipping, and iterating.  
-If you have ideas or want to collaborate on cloud + security + productivity tools, reach out!
+| Discipline | Tools and areas of practice |
+| --- | --- |
+| Cloud | AWS · IAM · VPC · EC2 · serverless architecture |
+| DevOps | GitHub Actions · Git · Linux · Bash · Terraform |
+| Cybersecurity | Identity and access · Web Crypto · security monitoring |
+| AI | Python · reinforcement-learning experiments · Bedrock integrations |
+| Frontend | React · TypeScript · HTML · CSS · Tailwind CSS |
+| Backend | Node.js · Express · Python · Java |
+| Databases | Firestore · MongoDB · PostgreSQL |
 
+## Selected projects
 
+### [CodeRush](https://github.com/Eskinder185/CodeRush)
 
+Developer typing practice with language lessons, active-session timing and
+progress statistics. Built with **React, TypeScript and Vite**.
+[Open public frontend ↗](https://eskinder185.github.io/CodeRush/)
 
+### [Hive](https://github.com/Eskinder185/Hive)
 
+Community chat with **React and Firebase**, live Firestore subscriptions and
+client-side message encryption. Authenticated functionality and encryption
+security have not been independently audited.
+[Open public frontend ↗](https://eskinder185.github.io/Hive/)
+
+### [JohnnyCloud](https://github.com/Eskinder185/JohnnyCloud)
+
+An AWS FinOps and SecOps dashboard with a **React** frontend and source for
+infrastructure and Lambda integrations. Documentation covers cost trends,
+security findings, identity and AI assistance. **Live AWS deployment unverified;
+Pages demo unavailable.**
+
+### [QuizForge](https://github.com/Eskinder185/QuizForge)
+
+A quiz workspace with authoring, study, exam, library and result routes, built
+with **React, TypeScript and Vite**.
+[Open public frontend ↗](https://eskinder185.github.io/QuizForge/)
+
+### [Cloud Launchpad](https://github.com/Eskinder185/cloud-launchpad-vpc-ec2)
+
+A focused **CloudFormation** learning project defining a VPC, private subnet,
+security group and EC2 instance. Source and deployment instructions are available.
+
+### [Hybrid Cloud Security Lab](https://github.com/Eskinder185/Hybrid-Cloud-Security-Lab)
+
+Architecture documentation for a **Proxmox, Linux and pfSense** lab, exploring
+network segmentation, storage and monitoring. The repository currently provides
+an overview and architecture image; operational results are not independently
+verified.
+
+**More work:** [AstraFocusNexus](https://github.com/Eskinder185/AstraFocusNexus) ·
+[ZeroEffort Tracker](https://github.com/Eskinder185/ProgreesTracker) ·
+[AlignID](https://github.com/Eskinder185/AlignID) ·
+[All repositories](https://github.com/Eskinder185?tab=repositories)
+
+Frontend links checked October 29, 2026. A reachable frontend does not certify
+an authenticated service or every application feature.
+
+## A snapshot of the work
+
+![Public non-fork repository counts and stars, dated October 29, 2026](assets/activity.svg)
+
+This is a dated snapshot of public work, not a live counter or a skill rating.
+[Explore activity on GitHub](https://github.com/Eskinder185?tab=overview) or
+[read how the visuals are maintained](docs/MAINTENANCE.md).
+
+<details>
+  <summary>Play the contribution snake — refreshed weekly</summary>
+  <p>The animation below follows my public GitHub contribution grid.</p>
+  <img src="https://raw.githubusercontent.com/Eskinder185/Eskinder185/output/github-contribution-grid-snake.svg" alt="A snake tracing Eskinder’s GitHub contribution grid" width="1000" />
+</details>
+
+## Let’s build something useful
+
+I’m interested in cloud infrastructure, security and thoughtful software.
+If your project connects those worlds, I’d enjoy comparing notes.
+
+[Start a conversation](mailto:eskinderkassahun25@gmail.com) ·
+[Explore the interactive portfolio](https://eskinder.dev)
