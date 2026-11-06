@@ -65,76 +65,86 @@ View My GitHub Contribution Activity
 Explore My Public Repositories
 </div>⭐ Featured Projects
 <p align="center">
-  A selection of my recent work across full-stack development, cybersecurity, community software, and productivity tools.
-</p>⛪ TewahedoDaily — Ethiopian Orthodox Learning Platform
-A multilingual web application bringing together Bible reading, Mezmur (hymns), prayers, the Ethiopian Orthodox calendar, and faith-based learning activities.
+  Selected applications I've built across software engineering, cybersecurity, education, and productivity.
+</p>⛪ TewahedoDaily
+Ethiopian Orthodox Learning & Worship Platform
 
-Technologies: React, TypeScript, Vite, Supabase, Cloudflare Pages
+A multilingual platform that brings Bible reading, Mezmur (hymns), prayers, the Ethiopian Orthodox calendar, and faith-based activities into one experience.
 
-Highlights:
-- English and Amharic Bible discovery, including verse-text search
-- Mezmur library with lyric search, language categories, and editorial workflows
-- Calendar connections to feasts, Synaxarium content, and relevant hymns
-- Faith Challenges and educational activities with content-management tooling
-🔗 Live Website | 💻 Source Code
-🛡️ NetShield — Network Security & Troubleshooting
-An early-stage, locally runnable network-health application focused on helping households understand device security, connectivity problems, and practical next steps.
+Tech Stack: React · TypeScript · Vite · Supabase · Cloudflare
 
-Technologies: Java, Spring Boot, React, TypeScript, PostgreSQL, Network Monitoring
+Key Features
+- Bible search by reference and verse text in Amharic and English
+- Mezmur discovery, lyric search, and content-management workflows
+- Calendar connections to feasts, Synaxarium content, and hymns
+- Faith Challenges and interactive learning activities
+🌐 Live Demo · 💻 GitHub Repository
+🛡️ NetShield
+Home Network Security & Troubleshooting
 
-Highlights:
-- Network-health and security dashboard with an interactive demo
-- Local sensor for approved connectivity checks and measurements
-- Guided explanations of findings and troubleshooting actions
-- Security-focused application architecture with ongoing testing and development
-💻 Source Code
-🌐 EKportfolio — Developer Portfolio
-My personal website, built to present my projects, case studies, engineering experience, and technical skills in one responsive interface.
+A network-health and security application designed to explain connectivity problems, surface device risks, and guide users toward practical fixes. In active development; demo data is clearly identified as simulated.
 
-Technologies: React, TypeScript, Vite, CSS, Framer Motion
+Tech Stack: Java · Spring Boot · React · TypeScript · PostgreSQL
 
-Highlights:
+Key Features
+- Interactive network health and security dashboard
+- Local sensor for authorized connectivity measurements
+- Device discovery with explicit consent and scoped network access
+- Plain-language findings and troubleshooting guidance
+🌐 Live Demo · 💻 GitHub Repository
+🌐 EKportfolio
+Personal Developer Portfolio
+
+My responsive portfolio, showcasing software projects, engineering case studies, technical skills, and professional experience.
+
+Tech Stack: React · TypeScript · Vite · Framer Motion
+
+Key Features
 - Dedicated Projects and Case Studies pages
-- Responsive layouts, interactive navigation, and motion effects
-- Project summaries, technical decisions, and links to source code
-- A central place to follow my software, cloud, and security work
-🔗 Live Website | 💻 Source Code
-💼 Jemawe — Technology Services Website
-A multi-page website for a technology services company, covering digital solutions, IT services, and computer services.
+- Interactive navigation and responsive layouts
+- Technical project descriptions and source-code links
+- Motion effects and mobile-friendly presentation
+🌐 Live Website · 💻 GitHub Repository
+💼 Jemawe
+Technology Services Website
 
-Technologies: HTML, CSS, TypeScript, Three.js, GitHub Actions
+A multi-page website for a technology services business, highlighting digital solutions, IT services, and computer services.
 
-Highlights:
-- Responsive service pages and reusable website components
-- Custom static-site build and deployment workflow
-- Interactive, lazy-loaded 3D homepage experience
-- Accessibility, navigation, and multi-device testing
-💻 Source Code
-⌨️ CodeRush — Typing & Coding Practice
-An interactive browser-based project for practicing typing and programming syntax while tracking speed and accuracy.
+Tech Stack: HTML · CSS · TypeScript · Three.js · GitHub Actions
 
-Technologies: TypeScript, React
+Key Features
+- Responsive service and information pages
+- Custom static-site generation and deployment workflow
+- Interactive 3D homepage hero with performance-conscious loading
+- Accessibility and multi-device testing
+🌐 Live Demo · 💻 GitHub Repository
+⌨️ CodeRush
+Typing & Coding Practice
 
-Highlights:
-- Timed typing and coding practice sessions
-- Speed and accuracy feedback
-- Structured exercises for regular practice
-- Accessible browser-based learning experience
-🔗 Live Demo | 💻 Source Code
-✅ AstraFocusNexus — Productivity Dashboard
-A productivity workspace for organizing tasks, building better focus habits, and reviewing personal progress.
+An interactive web application for practicing code typing, measuring accuracy, and building fluency through repeated exercises.
 
-Technologies: React, JavaScript
+Tech Stack: TypeScript · React
 
-Highlights:
-- Task organization and progress visibility
-- Focus-oriented dashboard and workflow tools
-- Interactive, responsive application interface
-- A centralized view of personal productivity activities
-🔗 Live Demo | 💻 Source Code
+Key Features
+- Timed coding and typing exercises
+- Speed and accuracy tracking
+- Practice-focused lessons and feedback
+🌐 Live Demo · 💻 GitHub Repository
+✅ AstraFocusNexus
+Productivity & Focus Dashboard
+
+A productivity app for organizing tasks, managing focus sessions, and making progress easier to track.
+
+Tech Stack: React · JavaScript
+
+Key Features
+- Task and activity organization
+- Focus-focused productivity dashboard
+- Progress visibility and responsive interface
+🌐 Live Demo · 💻 GitHub Repository
 <p align="center">
-  <b>⭐ If you find my work useful, consider starring a repository!</b>
-  <br/>
+  <b>⭐ Enjoying these projects? Consider starring a repository!</b>
+  <br/><br/>
   <a href="https://github.com/Eskinder185?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_All_Projects-7c4dff?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub projects" />
   </a>
