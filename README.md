@@ -164,37 +164,41 @@ An interactive typing and coding practice application focused on improving typin
 
 ---
 
-### 🐝 Hive — Social & Communication Platform
+### ⛪ TewahedoDaily
+**Ethiopian Orthodox Learning & Worship Platform**
 
-A social communication application with messaging functionality and cloud-connected features.
+A multilingual platform that brings Bible reading, Mezmur (hymns), prayers, the Ethiopian Orthodox calendar, and faith-based activities into one experience.
 
-**Technologies:** React, JavaScript, Firebase
+**Tech Stack:** React · TypeScript · Vite · Supabase · Cloudflare
 
-**Highlights:**
-- Real-time messaging functionality
-- Cloud-connected data updates
-- User-oriented interface
-- Messaging and application-state management
+**Key Features**
+- Bible search by reference and verse text in Amharic and English
+- Mezmur discovery, lyric search, and content-management workflows
+- Calendar connections to feasts, Synaxarium content, and hymns
+- Faith Challenges and interactive learning activities
 
-🔗 [Live Demo](https://eskinder185.github.io/Hive/) | 💻 [Source Code](https://github.com/Eskinder185/Hive)
-
----
-
-### 🧠 QuizForge — Interactive Learning Platform
-
-A web application designed to make learning more engaging through interactive quizzes.
-
-**Highlights:**
-- Interactive quiz experience
-- Responsive interface
-- Structured learning activities
-- Browser-based accessibility
-
-🔗 [Live Demo](https://eskinder185.github.io/QuizForge/) | 💻 [Source Code](https://github.com/Eskinder185/QuizForge)
+**[🌐 Live Demo](https://tewahedodaily.pages.dev/)** · **[💻 GitHub Repository](https://github.com/Eskinder185/TewahedoDaily)**
 
 ---
 
-### ✅ AstraFocusNexus — Productivity Dashboard
+### 🛡️ NetShield
+**Home Network Security & Troubleshooting**
+
+A network-health and security application designed to explain connectivity problems, surface device risks, and guide users toward practical fixes. In active development; demo data is clearly identified as simulated.
+
+**Tech Stack:** Java · Spring Boot · React · TypeScript · PostgreSQL
+
+**Key Features**
+- Interactive network health and security dashboard
+- Local sensor for authorized connectivity measurements
+- Device discovery with explicit consent and scoped network access
+- Plain-language findings and troubleshooting guidance
+
+**[🌐 Live Demo](https://eskinder185.github.io/NetShield/)** · **[💻 GitHub Repository](https://github.com/Eskinder185/NetShield)**
+
+---
+
+### AstraFocusNexus — Productivity Dashboard
 
 A productivity-focused application for organizing tasks, managing daily activities, and maintaining focus.
 
@@ -219,36 +223,6 @@ A personal productivity application built to help users organize goals, manage t
 - Local-first application features
 
 🔗 [Live Demo](https://eskinder185.github.io/ProgreesTracker/) | 💻 [Source Code](https://github.com/Eskinder185/ProgreesTracker)
-
----
-
-### ☁️ JohnnyCloud — Cloud Engineering Project
-
-An application project exploring cloud infrastructure, backend services, and AWS development.
-
-**Focus Areas:**
-- AWS cloud services
-- Backend and infrastructure development
-- Cloud application architecture
-- Deployment and integration concepts
-
-💻 [Source Code](https://github.com/Eskinder185/JohnnyCloud)
-
----
-
-### 🛡️ Cloud Infrastructure & Security Labs
-
-Hands-on projects focused on building cloud infrastructure and exploring secure system design.
-
-**Focus Areas:**
-- AWS VPC and EC2
-- Infrastructure as Code
-- Networking and access control
-- Cloud security architecture
-
-💻 [AWS Infrastructure Lab](https://github.com/Eskinder185/cloud-launchpad-vpc-ec2)
-
-💻 [Hybrid Cloud Security Lab](https://github.com/Eskinder185/Hybrid-Cloud-Security-Lab)
 
 ---
 
